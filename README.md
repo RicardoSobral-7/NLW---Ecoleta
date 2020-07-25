@@ -5,7 +5,7 @@
 To download this project you will need to install some things like:
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Node.js](https://nodejs.org/en/)
-* [gitBash](https://gitforwindows.org/) I recommend 
+* [gitBash](https://gitforwindows.org/) recommended
 
 ## How to launch
 To start the project you will need to write this following line in the terminal
@@ -13,7 +13,7 @@ To start the project you will need to write this following line in the terminal
 the project will be at door 3000, so open the browser and write 
 * **http://localhost:3000/**
 
-## Built
+## Built with
 * HTML 
 * CSS 
 * JavaScript
