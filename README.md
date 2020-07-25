@@ -21,7 +21,7 @@ the project will be at door 3000, so open the browser and write
 * SQLite
 
 ## Author
-* Ricardo Sobral - [gitHub](https://github.com/RicardoSobral-7) and [LinkedIn](https://www.linkedin.com/in/ricardo-sobral-b8978613a/)
+* Ricardo Sobral - [Github](https://github.com/RicardoSobral-7) and [LinkedIn](https://www.linkedin.com/in/ricardo-sobral-b8978613a/)
 
 ![nlw gif](https://github.com/RicardoSobral-7/NLW---Ecoleta/blob/master/nlw.gif)
 
