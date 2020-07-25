@@ -5,7 +5,7 @@
 To download this project you will need to install some things like:
 * [Visual Studio Code](https://code.visualstudio.com/download)
 * [Node.js](https://nodejs.org/en/)
-* Some terminal I recommend [gitBash](https://gitforwindows.org/)
+* [gitBash](https://gitforwindows.org/) I recommend 
 
 ## How to launch
 To start the project you will need to write this following line in the terminal
